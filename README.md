@@ -4,7 +4,7 @@
 Samson
 
 ## Deployed GitHub Pages URL  
-[http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
+[http://127.0.0.1:5500/index.html](https://samat4e.github.io/Lab8_Starter/)
 
 ## Graceful Degradation and Service Workers
 
